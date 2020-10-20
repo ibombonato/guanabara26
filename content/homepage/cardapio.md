@@ -1,5 +1,5 @@
 ---
-title: "Cardápio"
+title: "Cardápio *"
 weight: 1
 header_menu: true
 ---
@@ -17,3 +17,11 @@ header_menu: true
 ![Cardápio de pratos](images/menu-02.jpg)
 
 ---
+
+## Bebidas
+
+![Cardápio de bebidas](images/menu-03.jpg)
+
+---
+
+###### * Os preços podem sofrer alteração sem aviso prévio
